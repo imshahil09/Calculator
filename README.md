@@ -1,2 +1,3 @@
 # Calculator
-this is a clculaor using simple HTML CSS
+Objective: a machine which allows people to do math operations more easily.
+Tools Used : HTML,CSS
